@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Calculadora" src=".github/image_calculator.jpg" width="100%">
+  <img alt="projeto Calculadora" src=".github/layout_calculator.jpg" width="100%">
 </p>
 
 <br>
